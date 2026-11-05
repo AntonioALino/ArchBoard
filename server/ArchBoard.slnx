@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArchBoard.Application/ArchBoard.Application.csproj" />
+    <Project Path="src/ArchBoard.Consumers.Api/ArchBoard.Consumers.Api.csproj" />
+    <Project Path="src/ArchBoard.Domain/ArchBoard.Domain.csproj" />
+    <Project Path="src/ArchBoard.Infrastructure/ArchBoard.Infrastructure.csproj" />
+  </Folder>
+</Solution>
